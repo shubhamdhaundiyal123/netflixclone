@@ -107,12 +107,23 @@ nav button {
     cursor: pointer;
 }
 
+.btn-red:hover {
+    padding: 7px 26px;
+    font-size: 18px;
+}
+
 .btn-red-sm {
     cursor: pointer;
     background-color: red;
     color: white;
     box-shadow: grey;
     cursor: pointer;
+}
+
+.btn-red-sm:hover {
+    padding: 5px 10px;
+    font-size: 16px;
+
 }
 
 .main input {
